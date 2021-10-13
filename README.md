@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Price-Johnson
+- 👀 I’m interested in code
+- 🌱 I’m currently learning code
+- 💞️ I’m looking to collaborate on code
+- 📫 Reach me via gitHub
